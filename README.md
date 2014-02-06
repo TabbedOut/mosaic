@@ -1,4 +1,3 @@
-- - -
 #Mosaic
 A google ads Artboard Template for Adobe Illustrator
 
